@@ -1,6 +1,7 @@
-*.class
+*.class Files
 
 # Package Files #
-*.jar
-*.war
-*.ear
+*.java
+
+# Download Files #
+*.zip 
